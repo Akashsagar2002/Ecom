@@ -1,0 +1,28 @@
+#imgh{
+  height: 400px;
+}
+
+#imgh1{
+  height: 700px;
+}
+
+#feature{
+  background-color: lightblue;
+  background:linear-gradient(0deg,rgba(0,121,230,1)0%,rgba(0,250,255,1)90%) ;
+}
+
+#imghp{
+  height: 150px;
+}
+
+#cateimg{
+  height:228px ;
+}
+
+#cartbgcolor{
+  background-color: lightblue;
+}
+
+.contactbody{
+  background-color: lightgray;
+}
